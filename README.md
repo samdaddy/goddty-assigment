@@ -1,4 +1,4 @@
-# goddty-a/* Text & Font Styling */
+a/* Text & Font Styling */
 body {
   font-family: 'Segoe UI', sans-serif;
   color: #333;
